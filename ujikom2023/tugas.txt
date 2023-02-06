@@ -1,3 +1,0 @@
-fetch
-fake rest api
-json placeholder
